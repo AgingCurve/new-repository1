@@ -14,3 +14,4 @@ embed LaTex or mathML equations,
 $\frac{1}{n} \sum_{i=1}^{n} x_{i}$
 
 or even footnotes, citations, and a bibliography.^{1}
+ 
